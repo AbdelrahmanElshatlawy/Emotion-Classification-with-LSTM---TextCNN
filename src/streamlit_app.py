@@ -8,7 +8,7 @@ import os
 # Load model & tokenizer
 # -----------------------------
 MODEL_PATH = r"E:\PROJECTS\NLP Project\models\emotion_lstm_model.h5"
-TOKENIZER_PATH = r"E:\PROJECTS\NLP Project\tokenizer.pkl"
+TOKENIZER_PATH = r"E:\PROJECTS\NLP Project\models\tokenizer.pkl"
 
 st.set_page_config(page_title="Emotion Classifier", layout="centered")
 
