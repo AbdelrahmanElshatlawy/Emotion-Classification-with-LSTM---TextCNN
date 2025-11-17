@@ -81,7 +81,7 @@ Emotion-Classification-with-LSTM-TextCNN/
 ### 1. Clone the repository
 
 ```
-git clone https:[//github.com/<your-username>/Emotion-Classification-with-LSTM--TextCNN.git](https://github.com/AbdelrahmanElshatlawy/Emotion-Classification-with-LSTM---TextCNN.git)
+git clone https://github.com/<your-username>/Emotion-Classification-with-LSTM--TextCNN.git](https://github.com/AbdelrahmanElshatlawy/Emotion-Classification-with-LSTM---TextCNN.git
 cd Emotion-Classification-with-LSTM--TextCNN
 ```
 
